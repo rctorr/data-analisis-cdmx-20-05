@@ -32,7 +32,6 @@ En Python usamos `variables` para asignarles contenido que queremos utilizar des
 > Me parece muy importante hablar sobre la convención de nombramiento en Python: todas las variables y nombres de funciones se escriben en camel_case, sin excepciones. No es necesario mencionar la convención para clases en este momento, ya que ese tema no se tocará en este módulo.
 
 [**`Ejemplo 2`**](Ejemplo-02/variables.ipynb)
-[**`Reto 1`**](Reto-01/variables.ipynb)
 
 ---
 
@@ -51,7 +50,6 @@ Hemos estado asignando números a variables. En Python podemos realizar operacio
 > Deje fuera división entera y módulo para no confundir a los alumnos. En el Ejemplo se va a usar la función `print`. No es necesario ahondar mucho en el tema, pero sí hay que mencionar la sintaxis básica de cómo llamar estas funciones. Se pueden usar los comandos de la terminal como referencia para que los alumnos tengan una analogía.
 
 [**`Ejemplo 3`**](Ejemplo-03/operaciones_numericas.ipynb)
-[**`Reto 2`**](Reto-02/operaciones_numericas.ipynb)
 
 ---
 
