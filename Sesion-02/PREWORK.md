@@ -56,7 +56,7 @@ Vamos a aprender 2 métodos básicos para modificar listas en Python: append y p
 
 ##### Append
 
-`append` agrega un elemento al final de la lista. Llamamos `append` como hemos llamado otras funciones (`print` o `type`), usando paréntesis y pasándole dentro del paréntesis el elemento que queremos agregar a la lista. La única diferencia es que esta función la llamamos desde el objeto de la lista, con la sintaxis `variable_que_contiene_tu_lista.append()`. Es decir, `variable_que_contiene_tu_lista + . + append + ()`. Porque esta función la llamamos desde el objeto de la lista, la nombramos `método` en vez de lista. No importa si no entiendes por qué en ese momento, pero yo voy a llamarles `métodos` a partir de ahora para ser correctos. Veamos `append` en acción:
+`append` agrega un elemento al final de la lista. Llamamos `append` como hemos llamado otras funciones (`print` o `type`), usando paréntesis y pasándole dentro del paréntesis el elemento que queremos agregar a la lista. La única diferencia es que esta función la llamamos desde el objeto de la lista, con la sintaxis `variable_que_contiene_tu_lista.append()`. Es decir, `variable_que_contiene_tu_lista + . + append + ()`. Porque esta función la llamamos desde el objeto de la lista, la nombramos `método` en vez de función. No importa si no entiendes por qué en ese momento, pero yo voy a llamarles `métodos` a partir de ahora para ser correctos. Veamos `append` en acción:
 
 <div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-2_6.png'></div>
 
@@ -80,7 +80,7 @@ Como podrás imaginar, al remover elementos en índices intermedios, todos los e
 
 ---
 
-En el Work haremos múltiples Retos para poder entender todo el poder que tienen las listas. Por lo pronto, vamos a pasar a nuestra segunda estructura de datos del día de hoy: el diccionario
+En el trabajo en clase haremos múltiples Retos para poder entender todo el poder que tienen las listas. Por lo pronto, vamos a pasar a nuestra segunda estructura de datos del día de hoy: el diccionario
 
 #### Diccionarios
 
