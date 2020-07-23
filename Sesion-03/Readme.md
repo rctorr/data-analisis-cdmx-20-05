@@ -67,8 +67,7 @@ Vayamos ahora a algunos ejemplos.
 
 >
 
-[**`Ejemplo 3`**](Ejemplo-03/and.ipynb)
-[**`Reto 3`**](Reto-03/and.ipynb)
+[**`Ejemplo y reto 3`**](Ejemplo-03/and.ipynb)
 
 ---
 
@@ -82,22 +81,7 @@ Vayamos a algunos ejemplos.
 
 >
 
-[**`Ejemplo 4`**](Ejemplo-04/or.ipynb)
-[**`Reto 4`**](Reto-04/or.ipynb)
-
----
-
-<ins>`not`</ins>
-
-`not` simplemente regresa el `booleano` opuesto al que recibe
-
-<div style="padding: 10px; margin: 20px"><img src='./Imgs/sesion-3_29.png'></div>
-
-Vamos a ver cómo funciona
-
->
-
-[**`Ejemplo 5`**](Ejemplo-05/not.ipynb)
+[**`Ejemplo y reto 3`**](Ejemplo-03/or.ipynb)
 
 ---
 
@@ -113,8 +97,7 @@ Veámoslas en funcionamiento.
 
 >
 
-[**`Ejemplo 6`**](Ejemplo-06/lambda.ipynb)
-[**`Reto 5`**](Reto-05/lambda.ipynb)
+[**`Ejemplo y reto 4`**](Ejemplo-04/lambda.ipynb)
 
 ---
 
